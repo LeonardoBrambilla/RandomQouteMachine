@@ -1,5 +1,5 @@
 # About 
-- This project is Editor of text
+- This is a randomized text project
 
 # Setups of Project
 - React for build frontend
