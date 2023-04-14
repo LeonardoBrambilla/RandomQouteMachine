@@ -1,5 +1,6 @@
 # About 
 - This is a randomized text project
+- You can view with this link: https://random-qoute-machine-ashen.vercel.app/
 
 # Setups of Project
 - React for build frontend
